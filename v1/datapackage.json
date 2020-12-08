@@ -1,0 +1,50 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "20200901-pacientes_dia",
+      "path": "data/20200901-pacientes_dia.csv",
+      "profile": "tabular-data-resource",
+      "schema": "schema.json",
+      "title": "Pacientes Dia Setembro de 2020",
+      "mediatype": "text/csv",
+      "encoding": "UTF-8",
+      "description": "Contém dados do número de pacientes dia por unidade hospitalar da FHEMIG",
+      "dialect": "dialect.json",
+      "format": "csv"
+    },
+	{
+      "name": "20201001-pacientes_dia",
+      "path": "data/20201001-pacientes_dia.csv",
+      "profile": "tabular-data-resource",
+      "schema": "schema.json",
+      "title": "Pacientes Dia Outubro de 2020",
+      "mediatype": "text/csv",
+      "encoding": "UTF-8",
+      "description": "Contém dados do número de pacientes dia por unidade hospitalar da FHEMIG",
+      "dialect": "dialect.json",
+      "format": "csv"
+    }
+  "keywords": [
+    "fhemig números",
+    "pacientes dia",
+    "fhemig dados abertos"
+  ],
+  "name": "pacientes_dia",
+  "title": "pacientes_dia",
+  "homepage": "https://github.com/fhemig/dados-abertos",
+  "contributors": [
+    {
+      "title": "Gabriel Dornas",
+      "role": "author"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "CC-BY-SA-4.0",
+      "title": "Creative Commons Attribution Share-Alike 4.0",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  ]
+  ]
+}
