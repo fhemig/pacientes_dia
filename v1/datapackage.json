@@ -24,7 +24,8 @@
       "description": "Contém dados do número de pacientes dia por unidade hospitalar da FHEMIG",
       "dialect": "dialect.json",
       "format": "csv"
-    },
+    }
+  ],
   "keywords": [
     "fhemig números",
     "pacientes dia",
@@ -45,6 +46,5 @@
       "title": "Creative Commons Attribution Share-Alike 4.0",
       "path": "https://creativecommons.org/licenses/by-sa/4.0/"
     }
-  ]
   ]
 }
